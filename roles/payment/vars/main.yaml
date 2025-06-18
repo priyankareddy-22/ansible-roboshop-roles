@@ -1,0 +1,6 @@
+
+CART_HOST: cart.priya22n.site
+USER_HOST: user.priya22n.site
+RABBITMQ_HOST: rabbitmq.priya22n.site
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
